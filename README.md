@@ -1,2 +1,2 @@
-# python_learn
-PYTHON学习
+# python_cases
+PYTHON小案例
