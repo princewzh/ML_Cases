@@ -1,3 +1,6 @@
-资本论nlp
+# 资本论nlp
 data：为文本数据以及停用词等。  来源为：http://www.lvsetxt.com
 对数据做了一定的处理，比如有些在txt中的表格给删掉了
+- text_analysis: TFIDF,textrank
+- topic：主题分析
+- wordcloud：词云
